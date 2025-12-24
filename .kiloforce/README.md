@@ -2,9 +2,19 @@
 
 This verison of the VTTES is supposed to work with Jump Gate
 
-GitHub: https://github.com/justas-d/roll20-enhancement-suite
+DeathStalker VTTES Fork:
 
-VTT Enhacement Suite: https://justas-d.github.io/roll20-enhancement-suite/
+- GitHub: https://github.com/DeathStalker471/roll20-enhancement-suite
+
+Releases:
+
+- https://github.com/DeathStalker471/roll20-enhancement-suite/releases
+
+Original VTTES:
+
+- GitHub: https://github.com/justas-d/roll20-enhancement-suite
+
+- VTT Enhacement Suite: https://justas-d.github.io/roll20-enhancement-suite
 
 
 # Sync Fork Instructions
